@@ -1,10 +1,3 @@
-// To parse this JSON data, do
-//
-//     final coinApiModel = coinApiModelFromJson(jsonString);
-
-// To parse this JSON data, do
-//
-//     final coinApiModel = coinApiModelFromMap(jsonString);
 //@dart=2.9
 import 'dart:convert';
 
